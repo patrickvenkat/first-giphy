@@ -1,0 +1,18 @@
+title {
+    color: red;
+}
+
+#movie-section {
+  display: flex;
+  flex-wrap: wrap;
+}
+article {
+  width: 12em;
+  margin: 1em;
+}
+h1.card-title {
+  font-size: 2em;
+}
+img {
+  width: 100%;
+}
